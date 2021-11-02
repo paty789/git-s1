@@ -1,0 +1,2 @@
+Esta es una nueva información
+A partir de este momento, se incluye la segunda modificación del archivo# git-semana1-repositorio
